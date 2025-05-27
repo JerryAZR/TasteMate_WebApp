@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "description": "TasteMate",
+  "display": "standalone",
+  "name": "TasteMate",
+  "short_name": "TasteMate",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
