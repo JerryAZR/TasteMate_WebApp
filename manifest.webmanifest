@@ -9,22 +9,22 @@
   "scope": "/",
   "icons": [
     {
-      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-16.png",
+      "src": "package_ed67d540be1935af83d348927f1175bbc1f5d186/icon-16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-32.png",
+      "src": "package_ed67d540be1935af83d348927f1175bbc1f5d186/icon-32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-128.png",
+      "src": "package_ed67d540be1935af83d348927f1175bbc1f5d186/icon-128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "package_43e43abd613c0730e3b7165885b44a84898c9d06/icon-512.png",
+      "src": "package_ed67d540be1935af83d348927f1175bbc1f5d186/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
