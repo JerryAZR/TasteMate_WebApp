@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TasteMate",
   "resources": {
-    "hash": "sha256-8vBJRbUvdEL/Gsfog3s2X3+EZlcej3m3jyxBqFeZkbM=",
+    "hash": "sha256-LGuQOuDtfdPvrVgW5iLW1n51HgvJS4QZLWCxN99aDaA=",
     "fingerprinting": {
       "Uno.Foundation.rxm47uya95.pdb": "Uno.Foundation.pdb",
       "Uno.uhnfqwtnoz.pdb": "Uno.pdb",
@@ -336,8 +336,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "TasteMate.htd5857au8.wasm": "TasteMate.wasm",
-      "TasteMate.89dup5qrdw.pdb": "TasteMate.pdb"
+      "TasteMate.9nsfa7s3jz.wasm": "TasteMate.wasm",
+      "TasteMate.kzco9dyzmk.pdb": "TasteMate.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.uhsveqo9bs.js": "sha256-/ifJokfQvXKw1hEziCkYR9SOJIKSdGG/UKw5gbLWrj0="
@@ -645,7 +645,7 @@
       "WindowsBase.pe1q66fox7.wasm": "sha256-X+jubl681x6U1UjhhKVz+cjOvMv1wDBWIyyFenqJnPc=",
       "mscorlib.ypkr78tz1c.wasm": "sha256-Wkc7KpMw/bTWNoLCRv9T8olIOmCpEiJSeUZsUQEnwrA=",
       "netstandard.ifx8vojh9u.wasm": "sha256-PqpRCbO73PFsE8ik5zmAuG1kKax3c7bGhjOOeuiUcyY=",
-      "TasteMate.htd5857au8.wasm": "sha256-y/5z2ZT5go3wQXTh0KUtnTal1jqqQfC0kTyUgTQSXqU="
+      "TasteMate.9nsfa7s3jz.wasm": "sha256-O3tKJmH7ZkiF9blNOjD8E8s/oVWNPjAiXiIheystfyY="
     },
     "pdb": {
       "Uno.Foundation.rxm47uya95.pdb": "sha256-H4wRv29ZfFsx+eH4PnmcY1f05plr0/P0meT/8IsHapo=",
@@ -659,7 +659,7 @@
       "Uno.UI.Toolkit.m3mk8ybwxw.pdb": "sha256-HtObmH5ALdWEfBUTBTfSF7/KW0RyS2Sr/bIvp+/PXBI=",
       "Uno.Xaml.kehy16s5i3.pdb": "sha256-nAWdGbnuJnAZEo6L0KOIazCLmFNDBwQqfiR/6Rp8kF4=",
       "Uno.UI.Lottie.qnyxo5gld5.pdb": "sha256-trmBz/4EoPhDohoX7NmOHBK/OZkx/Jg/nsnkTIfQXso=",
-      "TasteMate.89dup5qrdw.pdb": "sha256-ZBSPvFAtshuaXCkXDGR+Sb7tgQky6NC3ni0ebT0Pkqc="
+      "TasteMate.kzco9dyzmk.pdb": "sha256-wDSb63BWkPI7UKKibCm0FVy9rtbf5ErGa0ADjKWi6DA="
     },
     "satelliteResources": {
       "cs": {
