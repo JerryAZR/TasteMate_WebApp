@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "TasteMate",
   "short_name": "TasteMate",
-  "start_url": "/TasteMate_WebApp/index.html",
+  "start_url": "/index.html",
   "theme_color": "#ffffff",
-  "scope": "/TasteMate_WebApp/",
+  "scope": "/",
   "icons": [
     {
       "src": "package_ed67d540be1935af83d348927f1175bbc1f5d186/icon-16.png",
