@@ -11,6 +11,12 @@ _framework/Uno.Xaml.pdb
 _framework/Uno.UI.Lottie.pdb
 _framework/CommonServiceLocator.wasm
 _framework/CommunityToolkit.Mvvm.wasm
+_framework/Microsoft.AspNetCore.Authorization.wasm
+_framework/Microsoft.AspNetCore.Components.wasm
+_framework/Microsoft.AspNetCore.Components.Forms.wasm
+_framework/Microsoft.AspNetCore.Components.Web.wasm
+_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm
+_framework/Microsoft.AspNetCore.Metadata.wasm
 _framework/Microsoft.Bcl.AsyncInterfaces.wasm
 _framework/Microsoft.Extensions.Configuration.wasm
 _framework/Microsoft.Extensions.Configuration.Abstractions.wasm
@@ -41,6 +47,8 @@ _framework/Microsoft.Extensions.ObjectPool.wasm
 _framework/Microsoft.Extensions.Options.wasm
 _framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm
 _framework/Microsoft.Extensions.Primitives.wasm
+_framework/Microsoft.JSInterop.wasm
+_framework/Microsoft.JSInterop.WebAssembly.wasm
 _framework/Microsoft.Win32.Registry.AccessControl.wasm
 _framework/Microsoft.Win32.SystemEvents.wasm
 _framework/Newtonsoft.Json.wasm
@@ -84,6 +92,11 @@ _framework/System.Speech.wasm
 _framework/System.Threading.AccessControl.wasm
 _framework/System.Web.Services.Description.wasm
 _framework/System.Windows.Extensions.wasm
+_framework/Tiktoken.wasm
+_framework/Tiktoken.Core.wasm
+_framework/Tiktoken.Encodings.Abstractions.wasm
+_framework/Tiktoken.Encodings.cl100k.wasm
+_framework/Tiktoken.Encodings.o200k.wasm
 _framework/Uno.Core.Extensions.wasm
 _framework/Uno.Core.Extensions.Collections.wasm
 _framework/Uno.Core.Extensions.Disposables.wasm
