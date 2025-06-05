@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TasteMate",
   "resources": {
-    "hash": "sha256-8izE88gu7bQOt/G+UXdqvijlb0hwPLMSLy2PoYSv27Y=",
+    "hash": "sha256-toX6Eyv7WNw9031gh1FhDsrsyjbsB1cZdHzg0PEEa2s=",
     "fingerprinting": {
       "CommonServiceLocator.pxaxvyzjv1.wasm": "CommonServiceLocator.wasm",
       "CommunityToolkit.Mvvm.4sdv9o2ycm.wasm": "CommunityToolkit.Mvvm.wasm",
@@ -254,7 +254,7 @@
       "System.Xml.XmlSerializer.69wknkil2z.wasm": "System.Xml.XmlSerializer.wasm",
       "System.Xml.XPath.gkgxk99utf.wasm": "System.Xml.XPath.wasm",
       "System.Xml.XPath.XDocument.p77fb7ls9l.wasm": "System.Xml.XPath.XDocument.wasm",
-      "TasteMate.a51pdvag06.wasm": "TasteMate.wasm",
+      "TasteMate.kzzuq2mq08.wasm": "TasteMate.wasm",
       "Tiktoken.Core.omopclcfk2.wasm": "Tiktoken.Core.wasm",
       "Tiktoken.Encodings.Abstractions.809r9uwo80.wasm": "Tiktoken.Encodings.Abstractions.wasm",
       "Tiktoken.Encodings.cl100k.u200u3nz2j.wasm": "Tiktoken.Encodings.cl100k.wasm",
@@ -608,7 +608,7 @@
       "System.Xml.XmlSerializer.69wknkil2z.wasm": "sha256-tnh2tKqvbrr15xw/HjWKWmhVMX/b7ZXUt4MAwxh+hL8=",
       "System.Xml.XPath.gkgxk99utf.wasm": "sha256-IDpU9YZCELVAu9u1tgKxFiEyESnZh4jI+lvmzBe/yhA=",
       "System.Xml.XPath.XDocument.p77fb7ls9l.wasm": "sha256-RYlHh1nK4UxlTBqkpDhmooU7Nkq0t9+bOYMRTO/Urys=",
-      "TasteMate.a51pdvag06.wasm": "sha256-Dnt76IL8Kp8n+UTTZgjLBJw6kj2n682psJADsGzActk=",
+      "TasteMate.kzzuq2mq08.wasm": "sha256-sJNTG3EEwKBamkeYZktFgOz5YVSwIVFulZFEkzw3i4I=",
       "Tiktoken.Core.omopclcfk2.wasm": "sha256-8MjbMbuennRHgPMHKj2BSi9sssO0phDICrvwBSVR4+A=",
       "Tiktoken.Encodings.Abstractions.809r9uwo80.wasm": "sha256-qLgWLF+XgKfwEGvfRQH17GQTJEl/n654KpHzy1t0kb4=",
       "Tiktoken.Encodings.cl100k.u200u3nz2j.wasm": "sha256-mgXUS8UxyU710Vt/Y9daCBDaHdor57WVaQV0f1tWZ88=",
